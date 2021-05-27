@@ -2,7 +2,7 @@
 
 # Sentiment Analysis 
 
-## Exploring Australian headlines over an 18-year timespan with SpacyTextBlob and VADER
+## Exploring Australian headlines with SpacyTextBlob and VADER
 
 
 <div align="center"><img src="https://github.com/Orlz/CDS_Visual_Analytics/blob/main/Portfolio/emotions%20(1).png"/></div>
